@@ -1,44 +1,57 @@
-# Hola, soy Renny Luzardo 👋
-### Senior Frontend Engineer | Software Architect | AI-Assisted Engineering
+# Renny Luzardo
 
-Soy un ingeniero con más de **10 años de trayectoria** transformando arquitecturas complejas en interfaces de alto rendimiento. Mi enfoque combina el rigor de la **Ingeniería Electrónica** con el desarrollo moderno de software para sectores críticos como **Fintech, SaaS y E-commerce**.
+**Senior Frontend Engineer**  
+React · Angular · React Native · Node.js · TypeScript
 
----
-
-### 🚀 Mi Enfoque Estratégico
-- **Arquitectura y Escalabilidad:** Especialista en la creación de sistemas modulares, implementando *Design Systems* y metodologías como BEM/SASS para CSS escalable.
-- **Optimización de Rendimiento:** Experiencia probada reduciendo tiempos de carga inicial en un 60% y elevando métricas de Lighthouse mediante *Tree-shaking* y *Code-splitting*.
-- **IA en el Ciclo de Vida:** Pionero en la adopción de **AI-Assisted Engineering** (Windsurf, Gemini, Copilot) para maximizar la eficiencia y la calidad técnica del código.
+Venezuela / Colombia &nbsp;·&nbsp; [linkedin.com/in/rennyluzardo](https://linkedin.com/in/rennyluzardo) &nbsp;·&nbsp; renny.intl@gmail.com
 
 ---
 
-### 🛠️ Ecosistema Técnico
+## About
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) |
-| **Herramientas IA** | ![Windsurf](https://img.shields.io/badge/-Windsurf-000000?style=flat) ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?logo=google-gemini&logoColor=white) |
+Frontend engineer with 10+ years building high-performance interfaces for B2B and B2C products across Fintech, SaaS, and E-commerce. I work across the full frontend stack — from component architecture and design systems to mobile apps and Node.js backends — with a strong focus on scalability, clean architecture, and measurable impact.
+
+Currently exploring AI-assisted engineering workflows using Windsurf, GitHub Copilot, and Gemini to accelerate delivery without sacrificing quality.
 
 ---
 
-### 💼 Trayectoria en Marcas de Impacto
-He tenido el privilegio de liderar y colaborar en proyectos críticos para:
-**Amex Business Link** • **Duragas Pro** • **Juan Valdez** • **Tipti**
+## Tech Stack
+
+**Frontend**
+React 19 &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Angular &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Redux &nbsp;·&nbsp; RxJS &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; SASS/BEM &nbsp;·&nbsp; Styled Components
+
+**Mobile**
+React Native
+
+**Backend**
+Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; Express.js &nbsp;·&nbsp; REST APIs
+
+**Architecture & Standards**
+SaaS Multitenancy &nbsp;·&nbsp; ADRs &nbsp;·&nbsp; Atomic Design &nbsp;·&nbsp; Module Federation &nbsp;·&nbsp; WCAG 2.1 AAA &nbsp;·&nbsp; OWASP Top 10
+
+**Tooling**
+Git &nbsp;·&nbsp; Docker &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Vite &nbsp;·&nbsp; Agile/Scrum
+
+**AI-Assisted Development**
+Windsurf (Flow state) &nbsp;·&nbsp; GitHub Copilot &nbsp;·&nbsp; Gemini &nbsp;·&nbsp; Claude &nbsp;·&nbsp; Model Context Protocol (MCP) — Integration of specialized MCP servers (Jira, GitHub) to provide LLMs with real-time project context and automated ticket management.
+
+**Agile**
+Jira &nbsp;·&nbsp; Confluence &nbsp;·&nbsp; Slack
 
 ---
 
-### 📊 Estadísticas de Ingeniería
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rennyluzardo&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennyluzardo&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
-</p>
+## Featured Work
+
+### 🏛️ [Software Engineering & Architecture Vault](https://github.com/rennyluzardo/software-engineering-vault)
+A curated collection of Architectural Decision Records (ADRs), performance case studies, and system design documents derived from real production experience.
+
+- **Restaurant OS:** [miPOS Omnichannel Console](https://github.com/rennyluzardo/miPOS) (Public Reference) Lead Frontend for an API-first omnichannel console. Normalized fragmented delivery data (Rappi/Uber) into a unified interface, saving 2-5 min per ticket.
+- **Fintech:** [Bundle optimization strategy (Vite)](https://github.com/rennyluzardo/software-engineering-vault/tree/main/frontend-architecture/high-performance-bundle-strategy) projecting 60% reduction in initial load time and +40 Lighthouse score points — based on work at Amex Business Link.
+- **Mobile Resilience:** [SRE patterns for maintaining 99.8% uptime](https://github.com/rennyluzardo/software-engineering-vault/tree/main/mobile-engineering/legacy-mobile-resilience-study) on a mission-critical React Native app (Duragas Pro).
+- **SaaS Architecture:** [Multitenant system design with Row-Level Security](https://github.com/rennyluzardo/software-engineering-vault/tree/main/system-design/venti-saas-architecture) using NestJS, React 19, and PostgreSQL.
+- **Accessibility:** [Theme system built on Gestalt principles and WCAG 2.1 AAA contrast standards](https://github.com/rennyluzardo/software-engineering-vault/tree/main/frontend-architecture/gestalt-ui-dark-mode)
 
 ---
 
-### 📫 Conectemos
-- 💼 [LinkedIn](https://www.linkedin.com/in/rennyluzardo/)
-- 📧 [Email](mailto:renny.intl@gmail.com)
 
-*"Construyendo el futuro del software, un commit (asistido por IA) a la vez."*
+*Explore my architectural methodology → [software-engineering-vault](https://github.com/rennyluzardo/software-engineering-vault)*
