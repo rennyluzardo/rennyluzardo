@@ -1,4 +1,4 @@
-# Renny Luzardo
+<h1>Renny Luzardo</h1>
 
 **Senior Frontend Engineer**  
 React · Angular · React Native · Node.js · TypeScript
