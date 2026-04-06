@@ -3,7 +3,7 @@
 **Senior Frontend Engineer**  
 React · Angular · React Native · Node.js · TypeScript
 
-Venezuela / Colombia &nbsp;·&nbsp; [linkedin.com/in/rennyluzardo](https://linkedin.com/in/rennyluzardo) &nbsp;·&nbsp; renny.intl@gmail.com
+Venezuela / Colombia &nbsp;·&nbsp; <a href="https://linkedin.com/in/rennyluzardo" target="_blank" rel="noopener noreferrer">linkedin.com/in/rennyluzardo</a> &nbsp;·&nbsp; renny.intl@gmail.com
 
 ---
 
