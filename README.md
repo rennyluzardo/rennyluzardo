@@ -56,7 +56,10 @@ Currently exploring AI-assisted engineering workflows using Windsurf, GitHub Cop
 ## Tech Stack
 
 **Frontend**
-React 19 · Next.js · Angular · TypeScript · Redux · RxJS · Tailwind CSS · SASS/BEM · Styled Components
+- **Frameworks:** React 19 · Next.js · Angular
+- **Languages:** TypeScript
+- **State Management:** Redux · RxJS
+- **Styling:** Tailwind CSS · SASS/BEM · Styled Components
 
 **Mobile**
 React Native
