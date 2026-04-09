@@ -60,7 +60,6 @@ Currently exploring AI-assisted engineering workflows using Windsurf, GitHub Cop
 - **Languages:** TypeScript
 - **State Management:** Redux · RxJS
 - **Styling:** Tailwind CSS · SASS/BEM · Styled Components
-- **Testing:** Playwright
 
 **Mobile**
 React Native
@@ -73,6 +72,9 @@ Node.js · NestJS · Express.js · REST APIs
 
 **Tooling**
 Git · Docker · AWS · Vite · Agile/Scrum
+
+**Testing**
+Playwright
 
 **AI-Assisted Development**
 Windsurf · GitHub Copilot · Gemini · Claude · MCP (Jira/GitHub integration for LLMs)
