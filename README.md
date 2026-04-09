@@ -68,7 +68,7 @@ React Native
 Node.js · NestJS · Express.js · REST APIs
 
 **Architecture & Standards**
-SaaS Multitenancy · ADRs · Atomic Design · Module Federation · WCAG 2.1 AAA · OWASP Top 10
+![SaaS](https://img.shields.io/badge/SaaS-blue) ![ADRs](https://img.shields.io/badge/ADRs-green) ![Atomic](https://img.shields.io/badge/Atomic_Design-orange) ![Module](https://img.shields.io/badge/Module_Federation-purple) ![WCAG](https://img.shields.io/badge/WCAG_2.1_AAA-red) ![OWASP](https://img.shields.io/badge/OWASP_Top_10-yellow)
 
 **Tooling**
 Git · Docker · AWS · Vite · Agile/Scrum
