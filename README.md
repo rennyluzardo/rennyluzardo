@@ -48,8 +48,8 @@ Currently exploring AI-assisted engineering workflows using Windsurf, GitHub Cop
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rennyluzardo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rennyluzardo&layout=compact&theme=transparent&hide_border=true)
+![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rennyluzardo&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=rennyluzardo&theme=transparent&hide_border=true)
 
 ---
 
