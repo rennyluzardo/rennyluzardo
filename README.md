@@ -56,25 +56,25 @@ Currently exploring AI-assisted engineering workflows using Windsurf, GitHub Cop
 ## Tech Stack
 
 **Frontend**
-React 19 &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Angular &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Redux &nbsp;·&nbsp; RxJS &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; SASS/BEM &nbsp;·&nbsp; Styled Components
+React 19 · Next.js · Angular · TypeScript · Redux · RxJS · Tailwind CSS · SASS/BEM · Styled Components
 
 **Mobile**
 React Native
 
 **Backend**
-Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; Express.js &nbsp;·&nbsp; REST APIs
+Node.js · NestJS · Express.js · REST APIs
 
 **Architecture & Standards**
-SaaS Multitenancy &nbsp;·&nbsp; ADRs &nbsp;·&nbsp; Atomic Design &nbsp;·&nbsp; Module Federation &nbsp;·&nbsp; WCAG 2.1 AAA &nbsp;·&nbsp; OWASP Top 10
+SaaS Multitenancy · ADRs · Atomic Design · Module Federation · WCAG 2.1 AAA · OWASP Top 10
 
 **Tooling**
-Git &nbsp;·&nbsp; Docker &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Vite &nbsp;·&nbsp; Agile/Scrum
+Git · Docker · AWS · Vite · Agile/Scrum
 
 **AI-Assisted Development**
-Windsurf (Flow state) &nbsp;·&nbsp; GitHub Copilot &nbsp;·&nbsp; Gemini &nbsp;·&nbsp; Claude &nbsp;·&nbsp; Model Context Protocol (MCP) — Integration of specialized MCP servers (Jira, GitHub) to provide LLMs with real-time project context and automated ticket management.
+Windsurf (Flow state) · GitHub Copilot · Gemini · Claude · Model Context Protocol (MCP) — Integration of specialized MCP servers (Jira, GitHub) to provide LLMs with real-time project context and automated ticket management.
 
 **Agile**
-Jira &nbsp;·&nbsp; Confluence &nbsp;·&nbsp; Slack
+Jira · Confluence · Slack
 
 ---
 
