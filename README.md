@@ -7,7 +7,6 @@
 <meta property="og:type" content="profile">
 <meta property="og:url" content="https://github.com/rennyluzardo">
 <link rel="canonical" href="https://github.com/rennyluzardo">
--->
 
 <script type="application/ld+json">
 {
@@ -27,6 +26,7 @@
   ]
 }
 </script>
+-->
 
 <h1>Renny Luzardo</h1>
 
