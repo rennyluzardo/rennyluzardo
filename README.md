@@ -74,7 +74,7 @@ Node.js · NestJS · Express.js · REST APIs
 Git · Docker · AWS · Vite · Agile/Scrum
 
 **Testing**
-Playwright
+Playwright · Cypress
 
 **AI-Assisted Development**
 Windsurf · GitHub Copilot · Gemini · Claude · MCP (Jira/GitHub integration for LLMs)
