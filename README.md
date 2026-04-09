@@ -60,6 +60,7 @@ Currently exploring AI-assisted engineering workflows using Windsurf, GitHub Cop
 - **Languages:** TypeScript
 - **State Management:** Redux · RxJS
 - **Styling:** Tailwind CSS · SASS/BEM · Styled Components
+- **Testing:** Playwright
 
 **Mobile**
 React Native
@@ -74,7 +75,7 @@ Node.js · NestJS · Express.js · REST APIs
 Git · Docker · AWS · Vite · Agile/Scrum
 
 **AI-Assisted Development**
-Windsurf (Flow state) · GitHub Copilot · Gemini · Claude · Model Context Protocol (MCP) — Integration of specialized MCP servers (Jira, GitHub) to provide LLMs with real-time project context and automated ticket management.
+Windsurf · GitHub Copilot · Gemini · Claude · MCP (Jira/GitHub integration for LLMs)
 
 **Agile**
 Jira · Confluence · Slack
