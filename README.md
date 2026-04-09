@@ -1,9 +1,40 @@
+<!--
+<meta name="description" content="Renny Luzardo - Senior Frontend Engineer with 10+ years experience in React, Angular, React Native, Node.js, and TypeScript. Expert in high-performance interfaces for Fintech, SaaS, and E-commerce with focus on scalability and clean architecture.">
+<meta name="keywords" content="Senior Frontend Engineer, React, Angular, React Native, Node.js, TypeScript, Fintech, SaaS, E-commerce, Software Architecture, Fullstack Developer">
+<meta name="author" content="Renny Luzardo">
+<meta property="og:title" content="Renny Luzardo - Senior Frontend Engineer">
+<meta property="og:description" content="Senior Frontend Engineer with 10+ years building high-performance interfaces for Fintech, SaaS, and E-commerce. Expert in React, Angular, React Native, Node.js, and TypeScript.">
+<meta property="og:type" content="profile">
+<meta property="og:url" content="https://github.com/rennyluzardo">
+<link rel="canonical" href="https://github.com/rennyluzardo">
+-->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Renny Luzardo",
+  "jobTitle": "Senior Frontend Engineer",
+  "description": "Senior Frontend Engineer with 10+ years building high-performance interfaces for Fintech, SaaS, and E-commerce",
+  "url": "https://github.com/rennyluzardo",
+  "sameAs": [
+    "https://linkedin.com/in/rennyluzardo",
+    "https://github.com/rennyluzardo"
+  ],
+  "knowsAbout": [
+    "React", "Angular", "React Native", "Node.js", "TypeScript",
+    "Software Architecture", "Frontend Engineering", "Fullstack Development"
+  ]
+}
+</script>
+
 <h1>Renny Luzardo</h1>
 
-**Senior Frontend Engineer**  
+**Senior Frontend Engineer**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20" /> React · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="20" height="20" /> Angular · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="20" height="20" /> React Native · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20" /> Node.js · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20" /> TypeScript
 
-Venezuela / Colombia &nbsp;·&nbsp; [linkedin.com/in/rennyluzardo](https://linkedin.com/in/rennyluzardo) &nbsp;·&nbsp; renny.intl@gmail.com
+Venezuela / Colombia
 
 ---
 
@@ -12,6 +43,13 @@ Venezuela / Colombia &nbsp;·&nbsp; [linkedin.com/in/rennyluzardo](https://linke
 Frontend engineer with 10+ years building high-performance interfaces for B2B and B2C products across Fintech, SaaS, and E-commerce. I work across the full frontend stack — from component architecture and design systems to mobile apps and Node.js backends — with a strong focus on scalability, clean architecture, and measurable impact.
 
 Currently exploring AI-assisted engineering workflows using Windsurf, GitHub Copilot, and Gemini to accelerate delivery without sacrificing quality.
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rennyluzardo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rennyluzardo&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
@@ -45,11 +83,20 @@ Jira &nbsp;·&nbsp; Confluence &nbsp;·&nbsp; Slack
 ### 🏛️ [Software Engineering & Architecture Vault](https://github.com/rennyluzardo/software-engineering-vault)
 A curated collection of Architectural Decision Records (ADRs), performance case studies, and system design documents derived from real production experience.
 
-- **Restaurant OS:** [miPOS Omnichannel Console](https://github.com/rennyluzardo/miPOS) (Public Reference) Lead Frontend for an API-first omnichannel console. Normalized fragmented delivery data (Rappi/Uber) into a unified interface, saving 2-5 min per ticket.
-- **Fintech:** [Bundle optimization strategy (Vite)](https://github.com/rennyluzardo/software-engineering-vault/tree/main/frontend-architecture/high-performance-bundle-strategy) projecting 60% reduction in initial load time and +40 Lighthouse score points — based on work at Amex Business Link.
-- **Mobile Resilience:** [SRE patterns for maintaining 99.8% uptime](https://github.com/rennyluzardo/software-engineering-vault/tree/main/mobile-engineering/legacy-mobile-resilience-study) on a mission-critical React Native app (Duragas Pro).
-- **SaaS Architecture:** [Multitenant system design with Row-Level Security](https://github.com/rennyluzardo/software-engineering-vault/tree/main/system-design/venti-saas-architecture) using NestJS, React 19, and PostgreSQL.
-- **Accessibility:** [Theme system built on Gestalt principles and WCAG 2.1 AAA contrast standards](https://github.com/rennyluzardo/software-engineering-vault/tree/main/frontend-architecture/gestalt-ui-dark-mode)
+- **Restaurant OS:** [miPOS Omnichannel Console](https://github.com/rennyluzardo/miPOS) (Public Reference) Lead Frontend for an API-first omnichannel console. Normalized fragmented delivery data (Rappi/Uber) into a unified interface, saving 2-5 min per ticket.  
+  *Tech: React, API-first architecture, Data normalization*
+
+- **Fintech:** [Bundle optimization strategy (Vite)](https://github.com/rennyluzardo/software-engineering-vault/tree/main/frontend-architecture/high-performance-bundle-strategy) projecting 60% reduction in initial load time and +40 Lighthouse score points — based on work at Amex Business Link.  
+  *Tech: Vite, Performance optimization, Fintech*
+
+- **Mobile Resilience:** [SRE patterns for maintaining 99.8% uptime](https://github.com/rennyluzardo/software-engineering-vault/tree/main/mobile-engineering/legacy-mobile-resilience-study) on a mission-critical React Native app (Duragas Pro).  
+  *Tech: React Native, SRE, Mobile reliability*
+
+- **SaaS Architecture:** [Multitenant system design with Row-Level Security](https://github.com/rennyluzardo/software-engineering-vault/tree/main/system-design/venti-saas-architecture) using NestJS, React 19, and PostgreSQL.  
+  *Tech: NestJS, React 19, PostgreSQL, Multitenancy, Row-Level Security*
+
+- **Accessibility:** [Theme system built on Gestalt principles and WCAG 2.1 AAA contrast standards](https://github.com/rennyluzardo/software-engineering-vault/tree/main/frontend-architecture/gestalt-ui-dark-mode)  
+  *Tech: WCAG 2.1 AAA, Accessibility, Design systems*
 
 ---
 
