@@ -32,24 +32,7 @@
 
 **Senior Frontend Engineer**
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20" /></td>
-    <td>React</td>
-    <td>·</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="20" height="20" /></td>
-    <td>Angular</td>
-    <td>·</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="20" height="20" /></td>
-    <td>React Native</td>
-    <td>·</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20" /></td>
-    <td>Node.js</td>
-    <td>·</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20" /></td>
-    <td>TypeScript</td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angularjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 <h6>Based in Venezuela / Colombia</h6>
 
