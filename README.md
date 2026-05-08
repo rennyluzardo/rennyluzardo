@@ -58,26 +58,36 @@ Currently exploring AI-assisted engineering workflows using Windsurf, GitHub Cop
 **Frontend**
 - **Frameworks:** React 19 · Next.js · Angular
 - **Languages:** TypeScript
-- **State Management:** Redux · RxJS
-- **Styling:** Tailwind CSS · SASS/BEM · Styled Components
+- **State Management:** Redux · RxJS · Zod Validation
+- **Styling:** TailwindCSS 4 · SASS/BEM · Styled Components
+- **Patterns:** Generative UI · Component Registry · Server-Driven UI
 
 **Mobile**
 React Native
 
 **Backend**
-Node.js · NestJS · Express.js · REST APIs
+Node.js · NestJS · Express.js · REST APIs · Server-Sent Events (SSE)
+
+**AI/ML & Orchestration**
+- **LLM Integration:** Google Gemini API · @langchain/core
+- **Graph Orchestration:** LangGraph.js · Multi-agent Systems
+- **Validation:** Zod Schemas · Prompt Regression Testing
+- **Observability:** LangSmith
+
+**Database**
+PostgreSQL · Row-Level Security · Multitenancy
 
 **Architecture & Standards**
-![SaaS](https://img.shields.io/badge/SaaS-blue) ![ADRs](https://img.shields.io/badge/ADRs-green) ![Atomic](https://img.shields.io/badge/Atomic_Design-orange) ![Module](https://img.shields.io/badge/Module_Federation-purple) ![WCAG](https://img.shields.io/badge/WCAG_2.1_AAA-red) ![OWASP](https://img.shields.io/badge/OWASP_Top_10-yellow)
+![SaaS](https://img.shields.io/badge/SaaS-blue) ![ADRs](https://img.shields.io/badge/ADRs-green) ![Atomic](https://img.shields.io/badge/Atomic_Design-orange) ![Module](https://img.shields.io/badge/Module_Federation-purple) ![WCAG](https://img.shields.io/badge/WCAG_2.1_AAA-red) ![OWASP](https://img.shields.io/badge/OWASP_Top_10-yellow) ![AI](https://img.shields.io/badge/AI_Driven-purple)
 
 **Tooling**
-Git · Docker · AWS · Vite · Agile/Scrum
+Git · Docker · AWS · Vite · Monorepo Management · Agile/Scrum
 
 **Testing**
-Playwright · Cypress
+Playwright · Cypress · Jest · Contract Testing · Integration Testing
 
 **AI-Assisted Development**
-Windsurf · GitHub Copilot · Gemini · Claude · MCP (Jira/GitHub integration for LLMs)
+Windsurf · GitHub Copilot · Gemini · Claude · MCP (Jira/GitHub integration for LLMs) · Spec-Driven Development
 
 **Agile**
 Jira · Confluence · Slack
