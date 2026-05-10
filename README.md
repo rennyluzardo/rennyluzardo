@@ -81,6 +81,9 @@ AI-Driven Generative UI Orchestration system using LangGraph & NestJS. An adapti
 ### 🏛️ [Software Engineering & Architecture Vault](https://github.com/rennyluzardo/software-engineering-vault)
 A curated collection of Architectural Decision Records (ADRs), performance case studies, and system design documents derived from real production experience.
 
+- **Agentic Systems:** [Adaptive POS (architecture and workflow docs)](https://github.com/rennyluzardo/software-engineering-vault/tree/main/agentic-systems/adaptive-pos) with practical guides for multi-agent orchestration, role-based workflows, and implementation standards for adaptive interfaces.
+  *Tech: LangGraph, Agentic systems, Generative UI, Spec-driven development*
+
 - **Restaurant OS:** [miPOS Omnichannel Console](https://github.com/rennyluzardo/miPOS) (Public Reference) Lead Frontend for an API-first omnichannel console. Normalized fragmented delivery data (Rappi/Uber) into a unified interface, saving 2-5 min per ticket.  
   *Tech: React, API-first architecture, Data normalization*
 
