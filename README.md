@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="2tT1cuDtuLPI-rlWwIbfLYoybFavc11bFt6ufjb3iXQ" />
 <h1>Renny Luzardo</h1>
 
 **Senior Frontend Engineer**
@@ -10,7 +11,7 @@
 
 ## About
 
-Frontend engineer with 10+ years building high-performance interfaces for B2B and B2C products across Fintech, SaaS, and E-commerce. Expert in component architecture, design systems, and full-stack development (React, Angular, React Native, Node.js).
+Senior Frontend Engineer with 10+ years building high-performance interfaces for B2B and B2C products across Fintech, SaaS, and E-commerce. Expert in component architecture, design systems, and full-stack development (React, Angular, React Native, Node.js).
  
 **Currently focused on AI-agentic systems:** LLM orchestration with LangGraph, generative UI design, UISchema contracts with Zod, and knowledge-driven development (Agents.md, skills.md, rules.md). Building [Adaptive-POS](https://github.com/rennyluzardo/Adaptive-POS) — a next-generation point-of-sale system where interfaces generate dynamically based on user intent and real inventory data.
  
